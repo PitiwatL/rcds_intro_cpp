@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/prl/Desktop/rcds_intro_cpp/build",
+  "command": "/usr/bin/g++ -Darmadillo_EXPORTS -I/home/prl/Desktop/rcds_intro_cpp/build/tmp/include -I/home/prl/miniconda3/include -I/usr/include/superlu  -std=c++11 -O2 -g -fPIC -o CMakeFiles/armadillo.dir/src/wrapper1.cpp.o -c /home/prl/Desktop/rcds_intro_cpp/chapter6/armadillo-9.870.2/src/wrapper1.cpp",
+  "file": "/home/prl/Desktop/rcds_intro_cpp/chapter6/armadillo-9.870.2/src/wrapper1.cpp"
+},
+{
+  "directory": "/home/prl/Desktop/rcds_intro_cpp/build",
+  "command": "/usr/bin/g++ -Darmadillo_EXPORTS -I/home/prl/Desktop/rcds_intro_cpp/build/tmp/include -I/home/prl/miniconda3/include -I/usr/include/superlu  -std=c++11 -O2 -g -fPIC -o CMakeFiles/armadillo.dir/src/wrapper2.cpp.o -c /home/prl/Desktop/rcds_intro_cpp/chapter6/armadillo-9.870.2/src/wrapper2.cpp",
+  "file": "/home/prl/Desktop/rcds_intro_cpp/chapter6/armadillo-9.870.2/src/wrapper2.cpp"
+}
+]
